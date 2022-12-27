@@ -1,6 +1,6 @@
-# Python-Mini-Project
+# Python Mini-Project
 #Acronym program
-# Taking in put from user
+# Taking input from user
 user_input = str(input("Enter a Sentence: "))
 # making list of words
 text = user_input.split()
